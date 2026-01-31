@@ -69,10 +69,10 @@
 
         FUNCTION {
             bindings = <
-&kp EXCLAMATION  &kp AT_SIGN     &kp POUND         &kp DOLLAR         &kp PERCENT                                             &kp LCTRL      &kp AMPERSAND     &kp ASTERISK   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS
-&kp MINUS        &kp UNDERSCORE  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp DOUBLE_QUOTES  &trans              &kp ASTERISK     &kp MINUS      &kp SQT           &kp GRAVE      &kp SEMICOLON         &kp GRAVE
-&kp EQUAL        &kp PLUS        &kp LEFT_BRACE    &kp RIGHT_BRACE    &kp SQT            &kp LEFT_ARROW      &kp RIGHT_ARROW  &kp LESS_THAN  &kp GREATER_THAN  &kp BACKSLASH  &kp COLON             &kp LEFT_SHIFT
-&kp LEFT_SHIFT   &kp DOWN_ARROW  &kp UP_ARROW      &trans             &trans             &trans              &trans           &trans                                                                &kp DEL
+&kp EXCLAMATION  &kp AT_SIGN     &kp POUND         &kp DOLLAR         &kp PERCENT                                             &kp LCTRL  &kp AMPERSAND  &kp ASTERISK   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS
+&kp MINUS        &kp UNDERSCORE  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp DOUBLE_QUOTES  &trans              &kp BACKSPACE    &kp MINUS  &kp SQT        &kp GRAVE      &kp SEMICOLON         &kp BACKSLASH
+&kp EQUAL        &kp PLUS        &kp LEFT_BRACE    &kp RIGHT_BRACE    &kp SQT            &kp LEFT_ARROW      &kp RIGHT_ARROW  &kp EQUAL  &kp ASTRK      &kp BACKSLASH  &kp COLON             &kp LEFT_SHIFT
+&kp LEFT_SHIFT   &kp UP_ARROW    &kp DOWN_ARROW    &trans             &trans             &trans              &trans           &trans                                                         &kp DEL
             >;
         };
 
